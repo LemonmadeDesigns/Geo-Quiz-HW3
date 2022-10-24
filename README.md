@@ -1,7 +1,8 @@
 # GeoQuiz - HW 3
 
-Name: Terrell D Lemons ( CWID:886659440 ), 
-      Olvin Bolanos ( CWID: 886616127 )
+Teammate 1: Terrell D Lemons ( CWID:886659440 )
+
+Teammate 2: Olvin Bolanos ( CWID: 886616127 )
 
 ## The languages used in the book
 
